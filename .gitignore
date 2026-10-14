@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+client_secret.json
+token.json
+episodes/
+out/
+refs/
+state/
+costs.csv

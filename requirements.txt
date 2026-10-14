@@ -1,0 +1,11 @@
+httpx
+pydantic
+PyYAML
+python-dotenv
+faster-whisper==1.2.1
+av==18.1.0
+boto3
+google-api-python-client
+google-auth-oauthlib
+rich
+pytest

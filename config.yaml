@@ -1,0 +1,11 @@
+model_chat: grok-4.3
+model_video: grok-imagine-video-1.5
+model_image: grok-imagine-image
+resolution: 720p
+aspect: 9:16
+clip_lengths: [6, 10]
+max_clips_per_episode: 6
+max_render_usd_per_run: 10
+post_times: {instagram: "12:00", youtube: "13:00"}
+timezone: America/New_York
+
